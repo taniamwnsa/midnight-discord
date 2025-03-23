@@ -20,7 +20,7 @@
 	--font: 'figtree';
 
 	/* top left corner text */
-	--corner-text: 'Catppuccin';
+	--corner-text: 'Nia<3';
 
 	/* thickness of messages divider */
 	--divider-thickness: 3px;
@@ -32,13 +32,13 @@
 	--streaming-indicator: #cba6f7; /* change to #593695 for default purple */
 
 	/* accent colors */
-	--accent-1: hsl(267, 84%, 81%); /* links */
-	--accent-2: hsl(267, 84%, 81%); /* general unread/mention elements */
-	--accent-3: hsl(267, 84%, 81%); /* accent buttons */
-	--accent-4: hsl(267, 70%, 73%); /* accent buttons when hovered */
-	--accent-5: hsl(267, 55%, 65%); /* accent buttons when clicked */
-	--mention: hsla(267, 70%, 71%, 0.1); /* mentions & mention messages */
-	--mention-hover: hsla(267, 70%, 71%, 0.05); /* mentions & mention messages when hovered */
+	--accent-1: hsl(316, 84%, 81%); /* links */
+	--accent-2: hsl(316, 84%, 81%); /* general unread/mention elements */
+	--accent-3: hsl(316, 84%, 81%); /* accent buttons */
+	--accent-4: hsl(316, 70%, 73%); /* accent buttons when hovered */
+	--accent-5: hsl(316, 55%, 65%); /* accent buttons when clicked */
+	--mention: hsla(316, 70%, 71%, 0.1); /* mentions & mention messages */
+	--mention-hover: hsla(316, 70%, 71%, 0.05); /* mentions & mention messages when hovered */
 
 	/* text colors */
 	--text-0: var(--bg-4); /* text on colored elements */
