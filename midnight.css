@@ -1113,8 +1113,8 @@ html.theme-light,
     --forum-post-tag-background: hsl(var(--primary-660-hsl) / 0.9);
     --guild-notifications-bottom-sheet-pill-background: var(--primary-700);
     --header-muted: var(--text-4);
-    --header-primary: var(--text-2);
-    --header-secondary: var(--text-4);
+    --header-primary: hsl(316, 84%, 81%);
+    --header-secondary: hsl(316, 70%, 73%);
     --home-background: var(--bg-4);
     --home-card-resting-border: hsl(var(--transparent-hsl) / 0);
     --icon-muted: var(--primary-400);
