@@ -6,7 +6,7 @@
     --font: 'figtree';
 
     /* top left corner text */
-    --corner-text: 'Nia<3';
+    --corner-text: 'Midnight';
 
     /* thickness of messages divider */
     --divider-thickness: 3px;
@@ -1113,7 +1113,7 @@ html.theme-light,
     --forum-post-tag-background: hsl(var(--primary-660-hsl) / 0.9);
     --guild-notifications-bottom-sheet-pill-background: var(--primary-700);
     --header-muted: var(--text-4);
-    --header-primary: hsl(316, 84%, 81%);
+    --header-primary: var(--text-2);
     --header-secondary: var(--text-4);
     --home-background: var(--bg-4);
     --home-card-resting-border: hsl(var(--transparent-hsl) / 0);
