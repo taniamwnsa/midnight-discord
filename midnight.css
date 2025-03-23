@@ -1114,7 +1114,7 @@ html.theme-light,
     --guild-notifications-bottom-sheet-pill-background: var(--primary-700);
     --header-muted: var(--text-4);
     --header-primary: hsl(316, 84%, 81%);
-    --header-secondary: hsl(316, 70%, 73%);
+    --header-secondary: var(--text-4);
     --home-background: var(--bg-4);
     --home-card-resting-border: hsl(var(--transparent-hsl) / 0);
     --icon-muted: var(--primary-400);
