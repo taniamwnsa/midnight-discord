@@ -72,8 +72,8 @@ body {
     --small-user-panel: on; /* off: default user panel, on: smaller user panel like in old discord */
 }
 
-.heading-lg\/bold_cf4812 {
-    color: var(--pink-5);
+.heading-lg\/bold_cf4812, .username_c19a55, .text-md\/medium_cf4812,  {
+    color: var(--pink-3);
 }
 
 /* color options */
