@@ -72,6 +72,10 @@ body {
     --small-user-panel: on; /* off: default user panel, on: smaller user panel like in old discord */
 }
 
+.heading-lg\/bold_cf4812 {
+    color: var(--pink-5);
+}
+
 /* color options */
 :root {
     --colors: on; /* off: discord default colors, on: midnight custom colors */
