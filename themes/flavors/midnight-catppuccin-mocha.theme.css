@@ -72,8 +72,12 @@ body {
     --small-user-panel: on; /* off: default user panel, on: smaller user panel like in old discord */
 }
 
-.nickname__63ed3 {
-    color: hsl(316deg, 84%, 81%);
+.nickname__63ed3, .titleClickable__9293f, .name__20a53 {
+    color: var(--pink-3);
+}
+
+.username_c19a55 {
+   color: var(--pink-1); 
 }
 
 /* color options */
