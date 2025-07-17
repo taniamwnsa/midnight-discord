@@ -72,11 +72,11 @@ body {
     --small-user-panel: on; /* off: default user panel, on: smaller user panel like in old discord */
 }
 
-.nickname__63ed3, .titleClickable__9293f, .name__20a53 {
+.nickname__63ed3, .titleClickable__9293f, .interactive__972a0:active {
     color: var(--pink-3);
 }
 
-.interactive__972a0:active {
+.username_c19a55 {
    color: var(--pink-1); 
 }
 
